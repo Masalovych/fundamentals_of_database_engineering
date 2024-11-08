@@ -1,0 +1,9 @@
+{
+  "name": "fundamentals_of_database_engineering",
+  "version": "0.1.0",
+  "description": "Testing databases performance optimization techniques",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Dmytro Masalovych",
+  "license": "ISC"
+}
