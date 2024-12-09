@@ -14,10 +14,3 @@ services:
       - "5432:5432"
     volumes:
       - ./db_data:/var/lib/postgresql/data
-
-  db_adminer:
-    image: adminer
-    container_name: db_adminer
-    restart: always
-    ports:
-      - 8085:8080
